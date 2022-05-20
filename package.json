@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-intermediate-customizedterminal",
+  "version": "1.0.0",
+  "description": "For this project, you will see more modules of NodeJS like 'OS' and 'util'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanane943002/NodeJs-Intermediate-customizedTerminal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanane943002/NodeJs-Intermediate-customizedTerminal/issues"
+  },
+  "homepage": "https://github.com/hanane943002/NodeJs-Intermediate-customizedTerminal#readme"
+}
